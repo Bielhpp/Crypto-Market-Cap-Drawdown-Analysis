@@ -28,7 +28,6 @@ Ao focar na capitalização de mercado, a ferramenta oferece uma análise mais r
 ## Instalação
 
 **1. Clone este repositório:**
-   ```bash
    git clone https://github.com/seu-usuario/crypto-market-cap-drawdown.git
 
 **2. Acesse o diretório do projeto:**
