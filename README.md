@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto realiza uma análise profunda de criptomoedas com foco em **capitalização de mercado (market cap)** e **drawdown**. Ao invés de considerar apenas o preço, esta ferramenta oferece uma visão mais precisa do valor total de uma criptomoeda em circulação e seu risco relativo, permitindo uma melhor avaliação de oportunidades de investimento.
+Este projeto foi criado como Projeto Aplicado de conclusão de Pós graduação do curso de Data Science & Machine Learning, da faculdade XP Educação-IGTI. Este projeto realiza uma análise profunda de criptomoedas com foco em **capitalização de mercado (market cap)** e **drawdown**. Ao invés de considerar apenas o preço, esta ferramenta oferece uma visão mais precisa do valor total de uma criptomoeda em circulação e seu risco relativo, permitindo uma melhor avaliação de oportunidades de investimento.
 
 A solução utiliza dados coletados diretamente do [CoinMarketCap](https://coinmarketcap.com/), realizando cálculos automáticos para encontrar o **All-Time High (ATH)** e o drawdown percentual de cada criptomoeda, fornecendo insights sobre sua estabilidade e resiliência.
 
